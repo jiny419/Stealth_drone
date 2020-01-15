@@ -60,7 +60,7 @@
 - E : Decrease degree of motor speed
 - S : Interval time for change speed (length of time sleep())
 
-#### Result
-<p>
+## Result
+<p align="center">
   <img src="image/simulation3.gif">
 </p>
