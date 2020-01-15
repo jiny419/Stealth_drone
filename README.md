@@ -58,7 +58,7 @@
 </p>
 
 #### Completed drone
-<p align]="center">
+<p align="center">
   <img src="image/drone.png">
 </p>
 
