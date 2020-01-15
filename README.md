@@ -1,5 +1,5 @@
 # Stealth drone project
-## K-SW summer programm
+## K-SW summer program
 
 ### Approach
 - Build a completely autonomous drone requiring NO RF transmission or receipt to be able to
@@ -76,9 +76,12 @@
 <p>
   <img src="image/simulation_first.png">
 </p>
+
+```
 - D : Increase degree of motor speed
 - E : Decrease degree of motor speed
 - S : Interval time for change speed (length of time sleep())
+```
 
 ## Result
 <p align="center">
