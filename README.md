@@ -1,5 +1,5 @@
 # Stealth drone project
-## K-SW summer program
+## IITP K-SW summer program in Purdue Univ.
 
 ### Approach
 - Build a completely autonomous drone requiring NO RF transmission or receipt to be able to
